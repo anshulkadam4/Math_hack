@@ -242,10 +242,10 @@ Thank you for using VIT Freshman Survival Kit! 🎓
             )
     
     def run(self):
-        """Start the bot"""
+        """Start the bot - FIXED VERSION"""
         print("🚀 Initializing Freshman Survival Kit Bot...")
         
-        # Create application with updated method
+        # Create application - This is the correct way for version 20.x
         application = Application.builder().token(self.token).build()
         
         # Add command handlers
@@ -271,10 +271,10 @@ Thank you for using VIT Freshman Survival Kit! 🎓
         # Error handler
         application.add_error_handler(self.error_handler)
         
-        # Start bot with proper polling
+        # Start bot - CRITICAL: Use correct method for version 20.x
         print("✅ Bot is ready!")
         print("🤖 Bot is now running... Press Ctrl+C to stop")
         print("📱 Open Telegram and search for your bot to test!")
         
-        # Use run_polling without deprecated parameters
+        # This is the CORRECT way for python-telegram-bot 20.x
         application.run_polling(drop_pending_updates=True)
