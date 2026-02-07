@@ -1083,6 +1083,37 @@ class Database:
                 "Most clubs remain active across the academic year, though activity levels may vary depending on events and academic schedules.",
                 "club activity year vit vellore",
             ),
+            (
+                "Is smoking allowed inside VIT campus?",
+                "Smoking or possession of tobacco products is strictly prohibited inside the VIT campus and hostels. Violation is treated as misconduct under the Students’ Code of Conduct.",
+                "smoking tobacco vit campus rule",
+            ),
+            (
+                "Is alcohol allowed in VIT hostels?",
+                "Possession or consumption of alcohol or narcotic substances inside VIT campus or hostels is strictly prohibited and may lead to disciplinary action.",
+                "alcohol vit hostel rule",
+            ),
+            (
+                "What happens if a student cheats in exams?",
+                "Exam malpractice such as cheating, carrying chits, or using electronic devices is considered serious misconduct and can result in suspension or expulsion.",
+                "exam cheating punishment vit",
+            ),
+            (
+                "What is academic misconduct at VIT?",
+                "Academic misconduct includes plagiarism, copying assignments, falsifying data, or claiming others’ work as one’s own. Such acts violate academic integrity rules.",
+                "academic misconduct plagiarism vit",
+            ),
+            (
+                "Who handles disciplinary cases at VIT?",
+                "Disciplinary cases at VIT are handled by the Disciplinary Committee constituted by the Registrar, following principles of natural justice.",
+                "disciplinary committee vit",
+            ),
+            (
+                "Is ragging allowed at VIT?",
+                "Ragging is strictly prohibited at VIT. Any violation is handled under UGC Anti-Ragging Regulations and may lead to severe punishment.",
+                "ragging vit punishment",
+            ),
+
         ]
 
         cursor.executemany(
