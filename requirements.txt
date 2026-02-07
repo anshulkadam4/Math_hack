@@ -2,7 +2,7 @@
 # Requirements file for Python dependencies
 
 # Telegram Bot Framework
-python-telegram-bot==20.7
+python-telegram-bot
 
 # Natural Language Processing
 nltk==3.8.1

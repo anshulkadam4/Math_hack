@@ -783,6 +783,306 @@ class Database:
                 "Parcels from online shopping websites or private senders are usually received at designated collection points on campus. Students must follow the notified procedure to collect their parcels using valid identification.",
                 "parcel collection vit vellore",
             ),
+            (
+                "How does the semester system work at VIT Vellore?",
+                "VIT Vellore follows a semester-based academic system where each academic year is divided into two semesters. Each semester includes coursework, continuous assessments, and end-semester examinations.",
+                "semester system academic structure vit vellore",
+            ),
+            (
+                "What are credits and why are they important?",
+                "Credits represent the weight of a course based on lecture hours, lab work, and academic effort. Successfully earning required credits is mandatory for graduation.",
+                "credits importance academic vit vellore",
+            ),
+            (
+                "How is CGPA calculated?",
+                "CGPA is calculated based on the grades obtained in all completed courses, weighted by their respective credits, and averaged over semesters.",
+                "cgpa calculation grading vit vellore",
+            ),
+            (
+                "What is the difference between CGPA and GPA?",
+                "GPA refers to performance in a single semester, while CGPA represents cumulative performance across all completed semesters.",
+                "cgpa vs gpa vit vellore",
+            ),
+            (
+                "Is relative grading followed at VIT Vellore?",
+                "Some courses at VIT Vellore may follow relative grading, while others use absolute grading. The grading method depends on course design and university policy.",
+                "relative grading absolute grading vit vellore",
+            ),
+            (
+                "What are CAT exams?",
+                "CAT exams are Continuous Assessment Tests conducted during the semester to evaluate student understanding before final examinations.",
+                "cat exams continuous assessment vit vellore",
+            ),
+            (
+                "How many CAT exams are conducted in a semester?",
+                "The number of CAT exams varies by course, but multiple assessments are generally conducted to evaluate continuous performance.",
+                "number of cat exams vit vellore",
+            ),
+            (
+                "What is the end-semester exam?",
+                "The end-semester exam is a comprehensive assessment conducted at the end of the semester and carries significant weight in the final grade.",
+                "end semester exam vit vellore",
+            ),
+            (
+                "How important are internal assessments?",
+                "Internal assessments such as quizzes, assignments, and CAT exams contribute significantly to the final course grade.",
+                "internal assessment importance vit vellore",
+            ),
+            (
+                "Can I improve my grade after getting low marks initially?",
+                "Yes, continuous assessments allow students to recover academically by performing better in later evaluations.",
+                "improve grades academic vit vellore",
+            ),
+            (
+                "What happens if I fail a course?",
+                "If a student fails a course, options such as re-registration or arrear examination may be available as per academic regulations.",
+                "fail course arrear vit vellore",
+            ),
+            (
+                "What is re-registration?",
+                "Re-registration involves enrolling again in a course that was not successfully completed in a previous semester.",
+                "re registration academic vit vellore",
+            ),
+            (
+                "Is attendance linked to academic performance?",
+                "Attendance affects exam eligibility and also helps students keep up with coursework, indirectly impacting academic performance.",
+                "attendance academic performance vit vellore",
+            ),
+            (
+                "Can faculty deny exam entry due to low attendance?",
+                "Students who do not meet the minimum attendance requirement may be debarred from appearing in examinations as per regulations.",
+                "exam eligibility attendance vit vellore",
+            ),
+            (
+                "How do I approach faculty for academic doubts?",
+                "Students can approach faculty through official email or during office hours for academic clarification and guidance.",
+                "approach faculty doubts vit vellore",
+            ),
+            (
+                "Are faculty advisors assigned to students?",
+                "Students are usually assigned faculty advisors who guide them on academic matters and progression.",
+                "faculty advisor academic vit vellore",
+            ),
+            (
+                "What is course registration?",
+                "Course registration is the process of selecting and enrolling in subjects for a semester through the university portal.",
+                "course registration academic vit vellore",
+            ),
+            (
+                "Can I drop a course after registering?",
+                "Course add or drop options may be available during a specific window announced by the university.",
+                "add drop course vit vellore",
+            ),
+            (
+                "What happens if I miss course registration?",
+                "Missing course registration may delay academic progress, and students must follow university instructions to resolve the issue.",
+                "miss course registration vit vellore",
+            ),
+            (
+                "Are first-year courses common for all branches?",
+                "Many first-year courses focus on fundamental subjects and may be common across multiple engineering branches.",
+                "first year common courses vit vellore",
+            ),
+            (
+                "How difficult are first-year academics?",
+                "First-year academics focus on building foundations. While manageable, they require consistent effort and regular study.",
+                "first year academics difficulty vit vellore",
+            ),
+            (
+                "Is self-study important at VIT Vellore?",
+                "Self-study plays a crucial role, as classroom teaching is supplemented by independent learning and practice.",
+                "self study importance vit vellore",
+            ),
+            (
+                "Do assignments affect final grades?",
+                "Assignments contribute to internal assessment marks and therefore impact final grades.",
+                "assignments grading vit vellore",
+            ),
+            (
+                "How are lab courses evaluated?",
+                "Lab courses are evaluated based on experiments, observations, practical exams, and continuous performance.",
+                "lab evaluation academic vit vellore",
+            ),
+            (
+                "Can I change my branch after first year?",
+                "Branch change options, if available, depend on academic performance and university policies announced at the time.",
+                "branch change vit vellore",
+            ),
+            (
+                "Is academic competition high at VIT Vellore?",
+                "Due to a large student population, academic competition can be high, but consistent effort helps students perform well.",
+                "academic competition vit vellore",
+            ),
+            (
+                "How can I manage academics effectively?",
+                "Effective academic management involves attending classes regularly, planning study schedules, and revising topics consistently.",
+                "manage academics vit vellore",
+            ),
+            (
+                "Does academic performance affect placements?",
+                "Academic performance, especially CGPA, can influence eligibility for internships, placements, and higher studies.",
+                "academics placement vit vellore",
+            ),
+            (
+                "Is plagiarism taken seriously?",
+                "Academic integrity is strictly enforced, and plagiarism may lead to penalties as per university rules.",
+                "plagiarism academic vit vellore",
+            ),
+            (
+                "Are open-book exams conducted?",
+                "The format of examinations depends on course design and faculty decisions, as communicated officially.",
+                "open book exam vit vellore",
+            ),
+            (
+                "What academic resources are available to students?",
+                "Students have access to libraries, digital resources, faculty support, and online learning platforms.",
+                "academic resources vit vellore",
+            ),
+            (
+                "Can I improve my CGPA in later semesters?",
+                "Yes, CGPA can improve with consistent academic performance in subsequent semesters.",
+                "improve cgpa vit vellore",
+            ),
+            (
+                "What role do presentations play in academics?",
+                "Presentations help assess understanding, communication skills, and application of concepts in certain courses.",
+                "presentations academic vit vellore",
+            ),
+            (
+                "How do academic warnings work?",
+                "Students with poor academic performance may receive warnings and are advised to improve in subsequent semesters.",
+                "academic warning vit vellore",
+            ),
+            (
+                "What are clubs and chapters at VIT Vellore?",
+                "Clubs and chapters at VIT Vellore are student-run organizations that focus on technical skills, cultural activities, social causes, or professional development. They provide opportunities for learning, collaboration, and personal growth outside academics.",
+                "clubs chapters vit vellore student organizations",
+            ),
+            (
+                "What is the difference between a club and a chapter?",
+                "Clubs are usually interest-based groups such as cultural, technical, or hobby clubs, while chapters are associated with professional or international organizations like IEEE or ACM and focus more on domain-specific learning and certifications.",
+                "club vs chapter vit vellore",
+            ),
+            (
+                "Are clubs compulsory for freshers?",
+                "Joining clubs is not compulsory for freshers at VIT Vellore. Participation is optional and depends on individual interest, time management, and priorities.",
+                "clubs compulsory fresher vit vellore",
+            ),
+            (
+                "Are clubs useful or just for time pass?",
+                "Clubs can be useful for skill development, networking, and confidence building if students actively participate. The value depends on how seriously a student engages with club activities.",
+                "clubs useful opinion vit vellore",
+            ),
+            (
+                "Is it okay if I do not join any club in first year?",
+                "Yes, it is completely okay to not join any club in the first year. Some students prefer focusing on academics initially and join clubs later.",
+                "not joining clubs first year vit vellore",
+            ),
+            (
+                "How do freshers join clubs at VIT Vellore?",
+                "Freshers can join clubs through recruitment drives, orientation events, or official announcements made by clubs. The selection process varies by club.",
+                "join clubs fresher vit vellore",
+            ),
+            (
+                "Can freshers join clubs in the first semester?",
+                "Yes, many clubs allow freshers to apply and join in their first semester, depending on recruitment cycles and club policies.",
+                "first semester clubs vit vellore",
+            ),
+            (
+                "Is there a limit on the number of clubs I can join?",
+                "There is usually no strict limit, but joining too many clubs can affect academic balance. Students are advised to choose based on interest and time availability.",
+                "club limit vit vellore",
+            ),
+            (
+                "Do clubs have interviews for selection?",
+                "Many clubs conduct interviews, tasks, or screening rounds to assess interest and commitment. Some clubs are open without a formal selection process.",
+                "club interview vit vellore",
+            ),
+            (
+                "Are club interviews difficult for freshers?",
+                "Club interviews are generally basic and focus on interest, willingness to learn, and commitment rather than advanced technical knowledge.",
+                "club interview difficulty vit vellore",
+            ),
+            (
+                "Can non-CS students join technical clubs?",
+                "Yes, many technical clubs are open to students from all branches and encourage beginners who are interested in learning.",
+                "non cs technical clubs vit vellore",
+            ),
+            (
+                "Do clubs select students based on CGPA?",
+                "Most clubs do not require CGPA for initial selection, especially for freshers. Interest and participation matter more in the early stages.",
+                "cgpa club selection vit vellore",
+            ),
+            (
+                "How much time do clubs usually require?",
+                "Time commitment varies by club and role. Some require occasional meetings, while others may need more involvement during events or projects.",
+                "club time commitment vit vellore",
+            ),
+            (
+                "Do clubs affect academic performance?",
+                "Clubs do not negatively affect academics if managed properly. Poor time management, not club participation itself, usually causes issues.",
+                "clubs academics balance vit vellore",
+            ),
+            (
+                "Can I leave a club if it becomes too hectic?",
+                "Yes, students can leave clubs if they find it difficult to manage. It is advisable to inform the club coordinators politely.",
+                "leave club vit vellore",
+            ),
+            (
+                "What are technical clubs useful for?",
+                "Technical clubs help students gain practical skills, work on projects, participate in competitions, and explore technical interests beyond coursework.",
+                "technical clubs benefits vit vellore",
+            ),
+            (
+                "Are non-technical clubs worth joining?",
+                "Non-technical clubs help develop communication skills, creativity, leadership, and teamwork, which are valuable alongside academics.",
+                "non technical clubs worth vit vellore",
+            ),
+            (
+                "What are chapters like IEEE or ACM?",
+                "Chapters like IEEE or ACM are professional bodies that focus on technical knowledge sharing, workshops, certifications, and industry exposure.",
+                "ieee acm chapters vit vellore",
+            ),
+            (
+                "Are chapter memberships paid?",
+                "Some professional chapters may require membership fees, especially if linked to international organizations. Details are communicated during enrollment.",
+                "chapter membership fees vit vellore",
+            ),
+            (
+                "Do clubs help with placements?",
+                "Clubs can indirectly help with placements by improving skills, projects, teamwork, and confidence, but placements primarily depend on individual preparation.",
+                "clubs placements vit vellore",
+            ),
+            (
+                "Can freshers get leadership roles in clubs?",
+                "Freshers usually start as members, but active participation can lead to leadership opportunities in later semesters.",
+                "club leadership fresher vit vellore",
+            ),
+            (
+                "Do clubs help in making friends?",
+                "Yes, clubs provide a social environment where students interact with peers and seniors, making it easier to build friendships.",
+                "clubs friends vit vellore",
+            ),
+            (
+                "Are clubs at VIT Vellore overrated?",
+                "Opinions vary among students. Some find clubs very beneficial, while others feel the value depends on the level of involvement and expectations.",
+                "clubs overrated opinion vit vellore",
+            ),
+            (
+                "Is it better to focus only on academics in first year?",
+                "Focusing on academics is important, but limited club involvement can also help with overall development. The right balance differs for each student.",
+                "academics vs clubs first year vit vellore",
+            ),
+            (
+                "Can I switch clubs later?",
+                "Yes, students can explore different clubs over time and switch based on changing interests and availability.",
+                "switch clubs vit vellore",
+            ),
+            (
+                "Do clubs remain active throughout the year?",
+                "Most clubs remain active across the academic year, though activity levels may vary depending on events and academic schedules.",
+                "club activity year vit vellore",
+            ),
         ]
 
         cursor.executemany(
@@ -804,35 +1104,60 @@ class Database:
         self.conn.commit()
         return cursor.lastrowid
 
-    def search_faq(self, query):
-        """Search FAQ using keywords"""
+    def search_faq(self, query, nlp_processor=None):
+        """
+        Search FAQ using IMPROVED scoring algorithm
+        Pass nlp_processor instance for better matching
+        """
         cursor = self.conn.cursor()
-        query_lower = query.lower()
-
         cursor.execute("SELECT question, answer, keywords FROM faqs")
         faqs = cursor.fetchall()
 
-        # Score each FAQ based on keyword matches
-        matches = []
-        for q, a, k in faqs:
-            score = 0
-            query_words = query_lower.split()
+        if not faqs:
+            return []
 
-            for word in query_words:
-                if len(word) > 2:  # Skip very short words
-                    if word in q.lower():
-                        score += 3
-                    if word in a.lower():
-                        score += 2
-                    if word in k.lower():
-                        score += 1
+        # If NLP processor provided, use advanced scoring
+        if nlp_processor:
+            matches = []
+            for question, answer, keywords in faqs:
+                score = nlp_processor.calculate_match_score(
+                    query, question, answer, keywords
+                )
+                if score > 0:  # Any positive score is a potential match
+                    matches.append((score, question, answer))
 
-            if score > 0:
-                matches.append((score, q, a))
+            # Sort by score (highest first)
+            matches.sort(reverse=True, key=lambda x: x[0])
 
-        # Sort by score (highest first) and return top 3
-        matches.sort(reverse=True, key=lambda x: x[0])
-        return [(q, a) for score, q, a in matches[:3]]
+            # Return top 3 with score > 10 (threshold for relevance)
+            relevant_matches = [(q, a) for score, q, a in matches if score > 10][:3]
+
+            return relevant_matches
+
+        # Fallback: Simple keyword matching (if no NLP processor)
+        else:
+            query_lower = query.lower()
+            matches = []
+
+            for q, a, k in faqs:
+                score = 0
+                query_words = query_lower.split()
+
+                for word in query_words:
+                    if len(word) > 2:  # Skip very short words
+                        if word in q.lower():
+                            score += 3
+                        if word in a.lower():
+                            score += 2
+                        if word in k.lower():
+                            score += 1
+
+                if score > 0:
+                    matches.append((score, q, a))
+
+            # Sort and return top 3
+            matches.sort(reverse=True, key=lambda x: x[0])
+            return [(q, a) for score, q, a in matches[:3]]
 
     def get_all_faqs(self):
         cursor = self.conn.cursor()
