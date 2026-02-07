@@ -1,0 +1,10 @@
+# VIT Freshman Survival Kit Chatbot
+# Requirements file for Python dependencies
+
+# Telegram Bot Framework
+python-telegram-bot==20.7
+
+# Natural Language Processing
+nltk==3.8.1
+
+# Note: sqlite3 is included with Python, no separate installation needed
