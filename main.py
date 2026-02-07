@@ -1,8 +1,8 @@
 from bot import FreshmanBot
 import sys
 
-# ⚠️ IMPORTANT: Replace this with YOUR actual bot token from @BotFather
-BOT_TOKEN = "8454688093:AAGoq2Zwjzf27rr_ZHcxfGIRp2gAEgL0zlc"
+
+BOT_TOKEN = "REMOVED"
 
 
 def main():
